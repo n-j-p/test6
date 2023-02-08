@@ -7,5 +7,8 @@ setup(
     url='https://github.com/n-j-p/test6',
     author='n-j-p',
 
-    py_modules=['example_package_njp'],
+    #py_modules=['example_package_njp'],
+    packages=['example_package_njp'],
+
 )
+
